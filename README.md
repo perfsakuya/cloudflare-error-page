@@ -4,8 +4,6 @@ A pixel-perfect, static React implementation of the classic Cloudflare error pag
 
 With the help of **Gemini 3**, this fork adds a React application to the original project, making it incredibly easy to deploy directly to **Cloudflare Pages** 😈
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/oftx/cloudflare-error-page)
-
 ---
 
 ## 📸 Screenshots

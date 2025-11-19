@@ -1,5 +1,0 @@
-name = "cloudflare-error-page"
-pages_build_output_dir = "react-app/dist"
-
-# Compatibility date for Pages Functions (if needed in the future)
-compatibility_date = "2025-01-01"
